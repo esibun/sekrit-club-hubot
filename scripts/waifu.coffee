@@ -1,5 +1,5 @@
 # Description:
-#   Provide the toast
+#   Provides a random waifu
 #
 # Commands:
 #   hubot waifu me - Gives the user a random waifu
