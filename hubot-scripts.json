@@ -1,1 +1,5 @@
-["advice.coffee","lmgtfy.coffee","weather.coffee","wikipedia.coffee"]
+[
+  "advice.coffee",
+  "lmgtfy.coffee",
+  "weather.coffee"
+]
