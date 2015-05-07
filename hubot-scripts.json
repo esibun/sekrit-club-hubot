@@ -1,5 +1,6 @@
 [
   "advice.coffee",
   "lmgtfy.coffee",
-  "weather.coffee"
+  "weather.coffee",
+  "abstract.coffee"
 ]
