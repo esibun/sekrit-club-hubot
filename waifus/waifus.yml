@@ -821,7 +821,7 @@
 - name: Suzuka Dairenji
   series: Tokyo Ravens
   filetype: png
-- name: Ky?ko Kurahashi
+- name: Kyōko Kurahashi
   series: Tokyo Ravens
   filetype: png
 - name: Akino Souma
@@ -847,7 +847,7 @@
 - name: Rika Furude
   series: Higurashi no Naku Koro ni
   filetype: png
-- name: Hany?
+- name: Hanyū
   series: Higurashi no Naku Koro ni
   filetype: png
   
@@ -1920,7 +1920,7 @@
 - name: Sakura Mizukami
   series: D-Frag!
   filetype: png
-- name: Minami ?sawa
+- name: Minami Ōsawa
   series: D-Frag!
   filetype: png
 - name: Takao
@@ -1955,7 +1955,7 @@
 - name: Shizuka Sakaki
   series: Shirobako
   filetype: png
-- name: Misa T?d?
+- name: Misa Tōdō
   series: Shirobako
   filetype: png
 - name: Midori Imai
@@ -1967,3 +1967,11 @@
 - name: Sara Satou
   series: Shirobako
   filetype: png
+  
+# Splatoon
+- name: Callie
+  series: Splatoon
+  filetype: jpg
+- name: Marie
+  series: Splatoon
+  filetype: jpg
